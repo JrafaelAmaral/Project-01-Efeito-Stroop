@@ -1,0 +1,1 @@
+﻿Um fenômeno clássico da psicologia experimental é o Efeito Stroop. Foi criado uma hipótese para a interpretação dos resultados do experimento, analisado alguns dados coletados de outros que realizaram a mesma tarefa e calculado algumas estatísticas que descrevem os resultados.
